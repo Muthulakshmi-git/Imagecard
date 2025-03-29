@@ -1,6 +1,3 @@
-📩 Subscription Page
-
-A simple and responsive Subscription Page built using HTML & CSS. This page allows users to subscribe to a newsletter or service by entering their email.
 
 🚀 Features
 
